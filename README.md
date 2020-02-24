@@ -1,1 +1,1 @@
-# gobarber
+# Go Barber Backend
