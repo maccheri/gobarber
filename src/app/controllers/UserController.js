@@ -71,7 +71,7 @@ class UserController {
         {
           model: File,
           as: 'avatar',
-          attributes: ['id', 'path', 'utl'],
+          attributes: ['id', 'path', 'url'],
         },
       ],
     });
